@@ -53,7 +53,8 @@
 					<div class="splash-wrapper">
 						<div class="col-md-8 col-md-offset-2 splash">
 							<h1>redrovr</h1>
-							<div id="timer-wrapper">
+							<p>coming July 1</p>
+							<!--div id="timer-wrapper">
 								<div>
 									<span class="days"></span>
 									<div class="smalltext">days</div>
@@ -66,7 +67,7 @@
 									<span class="minutes"></span>
 									<div class="smalltext">minutes</div>
 								</div>
-							</div>
+							</div-->
 						</div>
 					</div>
 				</div>

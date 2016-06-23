@@ -43,5 +43,5 @@ function initializeClock(id, endtime) {
 	var timeinterval = setInterval(updateClock, 1000);
 }
 
-var deadline = new Date(Date.parse(1467352800000);
+var deadline = Date.parse(1467352800000);
 initializeClock('timer-wrapper', deadline);
