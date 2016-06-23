@@ -1,8 +1,12 @@
 <!DOCTYPE html>
+
+<!-- Splash page for launch of redrovr.io, including countdown timer --->
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
 		<title>redrovr</title>
+		<meta name="author" content="Kai Garrott" />
+		<meta name="description" content="redrovr: a portal for the NASA Curiosity rover, currently exploring the surface of Mars" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 		<!-- sets viewport width to device width, scaling 1:1 -->
@@ -49,6 +53,20 @@
 					<div class="splash-wrapper">
 						<div class="col-md-8 col-md-offset-2 splash">
 							<h1>redrovr</h1>
+							<div id="timer-wrapper">
+								<div>
+									<span class="days"></span>
+									<div class="smalltext">days</div>
+								</div>
+								<div>
+									<span class="hours"></span>
+									<div class="smalltext">hours</div>
+								</div>
+								<div>
+									<span class="minutes"></span>
+									<div class="smalltext">minutes</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
