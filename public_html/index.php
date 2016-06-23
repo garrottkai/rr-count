@@ -27,13 +27,16 @@
 		<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
 
 		<!-- Custom CSS ------------------------>
-		<link rel="stylesheet" href="style.css" />
+		<link rel="stylesheet" href="css/style.css" />
 
 		<!-- jQuery -->
 		<script src="https://code.jquery.com/jquery-2.2.3.min.js"   integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="   crossorigin="anonymous"></script>
 
 		<!-- Latest compiled and minified JavaScript -->
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+
+		<!-- fancy-schmancy favicon ------------------>
+		<link rel="icon" href="media/favicon-take1.png">
 
 	</head>
 	<body>
@@ -43,8 +46,10 @@
 
 				</div>
 				<div class="row">
-					<div class="col-md-8 md-offset-2 splash">
-
+					<div class="splash-wrapper">
+						<div class="col-md-8 col-md-offset-2 splash">
+							<h1>redrovr</h1>
+						</div>
 					</div>
 				</div>
 				<div class="row">
