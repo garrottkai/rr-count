@@ -51,8 +51,8 @@
 				</div>
 				<div class="row">
 					<div class="splash-wrapper">
-						<div class="col-md-8 col-md-offset-2 splash">
-							<h1>redrovr</h1>
+						<div class="col-md-10 col-md-offset-1 splash">
+							<h1><img src="media/icon-border.png" class="logo">redrovr</h1>
 							<p>coming July 1</p>
 							<!--div id="timer-wrapper">
 								<div>

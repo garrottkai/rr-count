@@ -26,8 +26,30 @@ body {
 	font-size: 3rem;
 }
 
+.logo {
+	position: relative;
+	height: 10rem;
+	padding-right: 2rem;
+	-webkit-transform: translateY(15%);
+	-moz-transform: translateY(15%);
+	-ms-transform: translateY(15%);
+	-o-transform: translateY(15%);
+	transform: translateY(15%);
+}
+
 @media(min-width: 992px) {
 	.splash > h1 {
 		font-size: 15rem;
 	}
+	.logo {
+		height: 14rem;
+	}
 }
+
+@media(max-width: 767px) {
+	.logo {
+		padding-bottom: 2rem;
+	}
+}
+
+
