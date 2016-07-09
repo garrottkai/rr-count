@@ -4,7 +4,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title>redrovr</title>
+		<title>redrovr | coming July 2016</title>
 		<meta name="author" content="Kai Garrott" />
 		<meta name="description" content="redrovr: a portal for the NASA Curiosity rover, currently exploring the surface of Mars" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,21 +53,11 @@
 					<div class="splash-wrapper">
 						<div class="col-md-10 col-md-offset-1 splash">
 							<h1><img src="media/icon-border.png" class="logo">redrovr</h1>
-							<p>coming July 1</p>
-							<!--div id="timer-wrapper">
-								<div>
-									<span class="days"></span>
-									<div class="smalltext">days</div>
-								</div>
-								<div>
-									<span class="hours"></span>
-									<div class="smalltext">hours</div>
-								</div>
-								<div>
-									<span class="minutes"></span>
-									<div class="smalltext">minutes</div>
-								</div>
-							</div-->
+							<p>coming July 2016</p>
+							<div class="info-wrapper">
+							<a class="info" href="https://github.com/jordanv215/team-curiosity">Follow us on GitHub</a>
+							</div>
+							
 						</div>
 					</div>
 				</div>

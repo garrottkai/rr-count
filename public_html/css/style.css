@@ -1,5 +1,5 @@
 body {
-	background-color: lightgray;
+	background-color: #fdf1e7;
 }
 
 .splash-wrapper {
@@ -37,6 +37,21 @@ body {
 	transform: translateY(15%);
 }
 
+.info-wrapper {
+	margin-top: 2rem;
+}
+
+.info, .info:visited, .info:active {
+	font-family: 'Montserrat', sans-serif;
+	color: black;
+	font-size: 1.5rem;
+	text-decoration: underline;
+}
+
+.info:hover {
+	color: #8B3626;
+}
+
 @media(min-width: 992px) {
 	.splash > h1 {
 		font-size: 15rem;
@@ -49,6 +64,10 @@ body {
 @media(max-width: 767px) {
 	.logo {
 		padding-bottom: 2rem;
+		padding-right: 0;
+	}
+	.splash {
+		margin-top: 4rem;
 	}
 }
 
